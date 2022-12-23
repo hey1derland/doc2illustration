@@ -1,6 +1,6 @@
 # doc2illustration
 
-##프로젝트 설명
+## 프로젝트 설명
 **[배경]**
 Stable Diffusion, Imagen, Dalle 2와 같이 거대 T2I 모델이 공개 된 후, 해당 모델을 이용하여 할 수 있는 다양한 Downstream Task가 등장함.
 Content가 동일한 소수의 이미지(5~10장)를 참고한 후, 해당 이미지들의 특성을 반영하여 T2I를 수행하는 Personalized Model이 등장
