@@ -40,3 +40,5 @@ if __name__ == "__main__":
         text_path = f'./{tale_name}.txt'
         api = summary_api(bart_model)
         do_summary_and_save_results(api=api, text_path=text_path)
+
+        
