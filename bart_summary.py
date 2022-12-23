@@ -31,7 +31,6 @@ def do_summary_and_save_results(api, text_path:str)->list:
         # summary = summary.replace(del_part, '')
         summary = summary.split('.')[0]
         summary_list.append(summary)
-    print(summary_list)
     return summary_list
 
 if __name__ == "__main__":
