@@ -18,4 +18,5 @@ Bart-Summariziation | Dreambooth Pipeline을 통해  텍스트의 Context를 반
 <img width="846" alt="Screen Shot 2022-12-23 at 5 58 27 PM" src="https://user-images.githubusercontent.com/101631683/209305961-8f1e04c6-743d-436c-81de-c40fdb55cb78.png">
 
 ## Results
-![Picture1](https://user-images.githubusercontent.com/101631683/209306236-ec81f1d0-8811-47cb-86c4-08db04b9ef40.png)
+<img width="1006" alt="Screen Shot 2022-12-23 at 6 04 36 PM" src="https://user-images.githubusercontent.com/101631683/209306411-ea1ce1c4-9aea-4083-b258-56fdd52cb6a4.png">
+
