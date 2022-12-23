@@ -48,8 +48,8 @@ def main(args):
     
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--model', '-m',default='/data4/heywon/webtoon/diffusers/examples/dreambooth/model/sd2/test_ht1')
-    parser.add_argument('--summary', '-s', default='/data4/heywon/bart_summary/pinocchio.txt')
+    parser.add_argument('--model', '-m')
+    parser.add_argument('--summary', '-s')
     parser.add_argument('--character', '-c', nargs='+', default = ['Pinocchio'])
     args = parser.parse_args()
     main(args)
